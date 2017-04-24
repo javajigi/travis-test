@@ -103,7 +103,7 @@ package.json
 
 ``` bash
 $ npm install webpack webpack-dev-server --save-dev
-$ npm install babel-core babel-register babel-preset-env --save-dev
+$ npm install babel-core babel-loader babel-register babel-preset-env --save-dev
 ```
 
 ---
